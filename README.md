@@ -1,4 +1,4 @@
-# Tableau_Dashboard_Project
+# Tableau_Dashboard_Project using SQL
 I have created a financial domain dashboard utilizing Tableau and SQL, covering data cleaning, analysis, and visualization. This comprehensive tool facilitates efficient organization, examination, and presentation of data insights.
 
 Description about the Project-
